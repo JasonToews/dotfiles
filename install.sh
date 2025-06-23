@@ -65,6 +65,7 @@ brew install lazygit
 brew install neovim
 brew install mysql
 brew install bottom 
+brew install ripgrep
 
 # GUI apps
 brew install --cask android-studio
@@ -72,6 +73,7 @@ brew install --cask iterm2
 brew install --cask visual-studio-code
 brew install --cask postman
 brew install --cask lm-studio
+brew install --cask cursor
 
 # Fonts
 brew install --cask font-jetbrains-mono-nerd-font
